@@ -8,7 +8,7 @@
             "name": "GTA SA",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/CJGodMode.exe",
+            "program": "${workspaceFolder}/CJHealthLock.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
