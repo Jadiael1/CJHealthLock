@@ -15,7 +15,7 @@ A memory manipulation tool for GTA San Andreas that enables god mode (infinite h
 - **Game Version**: 1.0.1.32 (Rockstar Games Launcher)
 - **Development Date**: October 27, 2025 - 20:40
 - **Memory Analysis**: Memory addresses were discovered using CheatEngine's "Pointer Scan For This Address" feature
-- **Base Address**: 0x0080104C
+- **Base Address**: 0x007FB7D8
 - **Target Process**: gta_sa.exe
 
 ## Requirements
