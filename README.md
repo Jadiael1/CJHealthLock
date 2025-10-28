@@ -1,6 +1,6 @@
 # CJHealthLock - GTA San Andreas
 
-![GTA San Andreas](assets/images/CJHealthLock.png)
+![GTA San Andreas](assets/images/CJHealthLock_logos.png)
 
 ## Overview
 A memory manipulation tool for GTA San Andreas that enables god mode (infinite health) for CJ. This trainer was specifically developed for GTA San Andreas version 1.0.1.32 running through the Rockstar Games Launcher.
@@ -56,4 +56,4 @@ Feel free to fork and submit pull requests. All contributions are welcome!
 ---
 *"Grove Street. Home. At least it was before I turned on infinite health." - CJ (probably)*
 
-*Last updated: 28/10/2025 10:33*
+*Last updated: 28/10/2025 11:04*
